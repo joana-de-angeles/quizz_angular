@@ -1,0 +1,154 @@
+{
+    "title":"Qual é o seu destino de viagem ideal?",
+    "img":"assets/imgs/japao.jpg",
+    "questions":[
+        {
+            "id":1,
+            "question": "Qual atividade você prefere fazer durante as férias?",
+            "options":[
+                {
+                    "id": 1, 
+                    "name":"Participar de cerimônias tradicionais e festivais culturais", 
+                    "alias":"A"
+                },
+                {
+                    "id": 2, 
+                    "name":"Explorar museus e pontos turísticos históricos", 
+                    "alias":"B"
+                },
+                {
+                    "id": 3, 
+                    "name":"Desfrutar de mergulhos em praias paradisíacas", 
+                    "alias":"C"
+                },
+                {
+                    "id": 4, 
+                    "name":"Experimentar a culinária local em mercados e restaurantes", 
+                    "alias":"D"
+                }
+            ]
+        },
+        {
+        "id":2,
+        "question": "Que tipo de clima você mais prefere?",
+        "options":[
+                {
+                    "id": 1, 
+                    "name":"Clima temperado e quatro estações distintas", 
+                    "alias":"A"
+                },
+                {
+                    "id": 2, 
+                    "name":"Clima ensolarado e quente durante a maior parte do ano", 
+                    "alias":"B"
+                },
+                {
+                    "id": 3, 
+                    "name":" Clima tropical com chuvas ocasionais", 
+                    "alias":"C"
+                },
+                {
+                    "id": 4, 
+                    "name":" Variações de clima de acordo com as estações do ano", 
+                    "alias":"D"
+                }
+            ]
+        },
+        {
+            "id":3,
+            "question": "O que você mais valoriza em uma viagem?",
+            "options":[
+                {
+                    "id": 1, 
+                    "name":"Aventura e descoberta de novas tradições e costumes", 
+                    "alias":"A"
+                },
+                {
+                    "id": 2, 
+                    "name":"Imersão na história e cultura do local visitado", 
+                    "alias":"B"
+                },
+                {
+                    "id": 3, 
+                    "name":"Relaxamento em praias exuberantes e cenários naturais", 
+                    "alias":"C"
+                },
+                {
+                    "id": 4, 
+                    "name":"Exploração de sabores locais e experiências culinárias autênticas", 
+                    "alias":"D"
+                }
+            ]
+        },
+        {
+            "id":4,
+            "question": "Qual tipo de paisagem você mais gostaria de explorar?",
+            "options":[
+                {
+                    "id": 1, 
+                    "name":"Montanhas majestosas e templos antigos", 
+                    "alias":"A"
+                },
+                {
+                    "id": 2, 
+                    "name":"Praias de areia branca e águas cristalinas", 
+                    "alias":"B"
+                },
+                {
+                    "id": 3, 
+                    "name":"Selvas tropicais e vida marinha diversificada", 
+                    "alias":"C"
+                },
+                {
+                    "id": 4, 
+                    "name":"Arranha-céus impressionantes e cenários urbanos dinâmicos", 
+                    "alias":"D"
+                }
+            ]
+        },
+        {
+            "id":5,
+            "question": "Qual é o seu estilo de viagem preferido?",
+            "options":[
+                {
+                    "id": 1, 
+                    "name":"Aventureiro e explorador", 
+                    "alias":"A"
+                },
+                {
+                    "id": 2, 
+                    "name":"Tranquilo e relaxante", 
+                    "alias":"B"
+                },
+                {
+                    "id": 3, 
+                    "name":"Social e festivo", 
+                    "alias":"C"
+                },
+                {
+                    "id": 4, 
+                    "name":"Cultural e educativo", 
+                    "alias":"D"
+                }
+            ]
+        }
+        ],
+        "results": {
+            "A": {
+                "description": "O seu destido de viagem ideal é o Japão, uma mistura fascinante de tradição e modernidade. Explore antigos templos e castelos, mergulhe na tecnologia de ponta em cidades como Tóquio e desfrute da rica cultura gastronômica com pratos tradicionais como sushi, tempura e ramen, além de uma cena de restaurantes inovadora e diversificada.",
+                "img": "assets/imgs/japao.jpg"
+            },
+            "B": {
+                "description": "O seu destido de viagem ideal é a Itália, um país repleto de história, arte e gastronomia. Explore cidades antigas como Roma, Florença e Veneza, lar de algumas das maiores obras de arte e arquitetura do mundo. Além disso, delicie-se com a deliciosa comida e vinho italiano, que inclui pizza, massa, gelato e uma variedade de queijos e vinhos regionais.",
+                "img": "assets/imgs/italia.jpg"
+            },
+            "C": {
+                "description": "O seu destido de viagem ideal é a Tailândia, desfrute de praias deslumbrantes, ilhas exóticas e uma vida marinha diversificada. Relaxe em paraísos como Phuket, Krabi e Koh Samui, ou explore as águas cristalinas do Parque Nacional Marinho de Phi Phi. Além disso, mergulhe na rica cultura local, com templos budistas ornamentados, festivais coloridos e uma vida noturna agitada em cidades como Bangkok e Chiang Mai.",
+                "img": "assets/imgs/tailandia.jpg"
+            },
+            "D": {
+                "description": "O seu destido de viagem ideal é Nova York, uma metrópole vibrante e diversificada, conhecida por sua energia e diversidade cultural. Explore pontos turísticos icônicos como a Estátua da Liberdade, o Central Park e o Empire State Building. Descubra uma cena cultural e gastronômica incrível, com restaurantes étnicos, museus renomados, teatros da Broadway e uma vida noturna animada.",
+                "img": "assets/imgs/new-york.jpg"
+            }
+        }
+}
