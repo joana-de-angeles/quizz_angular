@@ -113,6 +113,16 @@
     .container__results img{
         width: 100%;
     }
+
+    .btn-option:hover{
+        background-color: none;
+        color: none;
+    }
+    
+    .btn-option:active{
+        position: none;
+        top: none;
+    }
 }
 
 @media (min-width: 630px) and (max-width: 840px){
