@@ -123,6 +123,8 @@
     .btn-option:active {
         position: static; 
         top: auto;
+        background-color: #52637e;
+        color: #fff;
     }
 }
 
