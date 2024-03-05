@@ -114,14 +114,14 @@
         width: 100%;
     }
 
-    .btn-option:hover{
-        background-color: none;
-        color: none;
+    .btn-option:hover {
+        background-color: transparent; 
+        color: inherit; 
     }
     
-    .btn-option:active{
-        position: none;
-        top: none;
+    .btn-option:active {
+        position: static; 
+        top: auto;
     }
 }
 
