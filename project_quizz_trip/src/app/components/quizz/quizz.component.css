@@ -95,8 +95,33 @@
 /* Responsividade */
 
 @media (min-width: 300px) and (max-width: 630px){
+
+    .container__quizz{
+        width: 70%;
+    }
+
     .btn-option{
         width: 100%;
         font-size: 1.1rem;
+    }
+
+    .container__results-texto{
+        width: 100%;
+        font-size: 1.1rem;
+    }
+
+    .container__results img{
+        width: 100%;
+    }
+}
+
+@media (min-width: 630px) and (max-width: 840px){
+    .container__results-texto{
+        width: 100%;
+        font-size: 1.1rem;
+    }
+
+    .container__results img{
+        width: 100%;
     }
 }
