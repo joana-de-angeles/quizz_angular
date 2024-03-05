@@ -103,6 +103,7 @@
     .btn-option{
         width: 100%;
         font-size: 1.1rem;
+        color: #1b202c;
     }
 
     .container__results-texto{
@@ -116,7 +117,7 @@
 
     .btn-option:hover {
         background-color: #c6c6c6; 
-        color: inherit; 
+        color: #1b202c; 
     }
     
     .btn-option:active {
